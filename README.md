@@ -1,4 +1,3 @@
-kan du hjälpa mig skriva om denna readmen till frontenden till samma projekt så att layouten på miner mer om den du precis skrev
 # **Scrum Board**
 ## **Description**
 This project is a web-based **Scrum Board** application designed to manage tasks and team members efficiently. Users can add members, create tasks, assign them to team members, and move tasks through different stages: **New**, **In Progress**, and **Done**. The application provides filtering and sorting options to help users organize and track progress effectively.
